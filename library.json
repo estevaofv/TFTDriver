@@ -1,0 +1,21 @@
+{
+  "name": "TFTDriver",
+  "version": "1.0.0",
+  "keywords": "TFT, ePaper, display, ESP8266, NodeMCU, ESP32, M5Stack, ILI9341, ST7735, ILI9163, S6D02A1, ILI9486, ST7789V",
+  "description": "A TFT and ePaper SPI graphics library for ESP8266 and ESP32",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/REVOtic/TFTDriver"
+  },
+  "authors":
+  [
+    {
+        "name": "Shachindra",
+        "email": "shachindra@revoticengineering.com",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif8266, espressif32"
+}
